@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.integracao1.vermelha { 
+  color: red;
+}
+.integracao1.azul {
+  color: blue;
+}
